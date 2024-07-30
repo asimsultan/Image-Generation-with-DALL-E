@@ -28,6 +28,7 @@ To set up the project, follow these steps:
 # Clone this repository and navigate to the project directory:
 git clone https://github.com/your-username/dalle_image_generation.git
 cd dalle_image_generation
+```
 
 # Install the required packages:
 pip install -r requirements.txt
