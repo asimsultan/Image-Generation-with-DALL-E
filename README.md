@@ -30,6 +30,7 @@ git clone https://github.com/your-username/dalle_image_generation.git
 cd dalle_image_generation
 ```
 
+```bash
 # Install the required packages:
 pip install -r requirements.txt
 
