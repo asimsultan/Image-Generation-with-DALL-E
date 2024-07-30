@@ -1,0 +1,7 @@
+
+input_text,target_image_url
+"A beautiful sunset over the mountains.","https://example.com/image1.jpg"
+"A futuristic cityscape at night.","https://example.com/image2.jpg"
+"An underwater scene with colorful fish.","https://example.com/image3.jpg"
+"A forest path in autumn.","https://example.com/image4.jpg"
+"A snowy landscape with a cozy cabin.","https://example.com/image5.jpg"
